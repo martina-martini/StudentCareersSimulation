@@ -13,3 +13,6 @@ Develop a simulator of the student career in the university.
  Consider a realistic/interesting simulation scenario:
  R1. Motivate the choice of all the input parameters
  R2. Comment in details the numerical results, focusing on the questions described above.
+
+
+🔗 PDF report attached
